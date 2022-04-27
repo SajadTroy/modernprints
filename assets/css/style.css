@@ -288,8 +288,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  height: 100vh
+  background: url("https://i.postimg.cc/fb9rczF8/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
 }
